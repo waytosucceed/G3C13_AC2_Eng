@@ -1,0 +1,152 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "I _____ a teacher.",
+    "options": ["am", "is", "are", "were"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "She _____ a talented artist.",
+    "options": ["am", "is", "are", "were"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "They _____ studying for the test last night.",
+    "options": ["am", "is", "are", "were"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "The helping verb \"is\" should be used with singular subjects in the present time.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "She _____ finished her homework.",
+    "options": ["am", "is", "has", "have"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "\"Were\" is a helping verb used in the past time (yesterday or last month).",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "The students _____ completed their assignments.",
+    "options": ["is", "are", "has", "have"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "The helping verb \"am\" is used with ______.",
+    "options": ["I", "You", "He", "They"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "She _____ a math test this afternoon.",
+    "options": ["were", "was", "has", "none of the above"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which of the following is not a helping verb?",
+    "options": ["Which", "Was", "Have", "Are"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "\"Are\" is a helping verb used with plural subjects in the present time.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "I _____ done my homework.",
+    "options": ["am", "is", "has", "have"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "The helping verb \"was\" is used to show something that happened in the past.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "\"Have\" is a helping verb used to show the present time.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "The kids _____ playing in the park.",
+    "options": ["is", "was", "are", "has"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which of the following helping verbs is used with singular subjects?",
+    "options": ["Am", "Are", "Were", "None of the above"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "They _____ visited the museum last year.",
+    "options": ["am", "is", "has", "had"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which of the following is a helping verb?",
+    "options": ["When", "Where", "Were", "Whom"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "The cat _____ sleeping on the couch.",
+    "options": ["is", "had", "are", "were"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "\"Are\" is a helping verb used with singular subjects.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "The teacher _____ given the students their assignments.",
+    "options": ["has", "have", "had", "none of the above"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "The dog _____ barking all night.",
+    "options": ["am", "is", "are", "was"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "I _____ been to the park before.",
+    "options": ["am", "has", "have", "had"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "The clothes _____ washed and folded.",
+    "options": ["am", "is", "has", "were"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "The helping verb \"is\" is used with the subject to describe the past action.",
+    "options": ["True", "False"],
+    "correct": 1
+  }
+]
